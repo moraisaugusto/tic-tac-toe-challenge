@@ -56,5 +56,4 @@ However, please be aware that we'd prefer a more polished implementation to more
 
 ## Submission
 
-When you are ready, please submit your challenge as a pull request
-against this repository.
+When you are ready, please create a public repository and share the link with the interview manager.
